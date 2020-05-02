@@ -1,0 +1,30 @@
+body{
+    font-family: sans-serif;
+font-size: 14px;
+}
+
+#wrapper{
+    margin: 0 auto;
+    width: 850px;
+    display: block;
+}
+
+#center{
+    text-align: center;
+}
+
+form{
+    padding-top: 10px;
+    padding-bottom:10px;
+    background-color:#6b5acd;
+    color: #ffffff;
+}
+
+table{
+    margin-left: 20px;
+}
+
+#heading {
+    text-decoration: underline;
+    color: #0066b3;
+}
